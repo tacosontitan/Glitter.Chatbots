@@ -13,7 +13,7 @@ public abstract class SlashCommand : Command
     /// <param name="key">The key for invoking the <see cref="SlashCommand"/>.</param>
     /// <param name="description">The description for the <see cref="SlashCommand"/>.</param>
     /// <param name="logger">The logger the <see cref="SlashCommand"/> should utilize.</param>
-    public SlashCommand(string key, string description, ILogger logger) :
+    protected SlashCommand(string key, string description, ILogger logger) :
         base(key, description, logger)
     { }
     /// <summary>
@@ -23,7 +23,7 @@ public abstract class SlashCommand : Command
     /// <param name="displayName">The display name for the <see cref="SlashCommand"/>.</param>
     /// <param name="description">The description for the <see cref="SlashCommand"/>.</param>
     /// <param name="logger">The logger the <see cref="SlashCommand"/> should utilize.</param>
-    public SlashCommand(string key, string displayName, string description, ILogger logger) :
+    protected SlashCommand(string key, string displayName, string description, ILogger logger) :
         base(key, displayName, description, logger)
     { }
 }

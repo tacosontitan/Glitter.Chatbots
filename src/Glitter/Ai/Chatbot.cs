@@ -33,7 +33,7 @@ public abstract class Chatbot : BackgroundService
     /// <param name="name">The name of the <see cref="Chatbot"/>.</param>
     /// <param name="mediator">The mediator for handling <see cref="Command"/> requests.</param>
     /// <param name="logger">The logger for the <see cref="Chatbot"/>.</param>
-    public Chatbot(
+    protected Chatbot(
         string name,
         IMediator mediator,
         ILogger logger)

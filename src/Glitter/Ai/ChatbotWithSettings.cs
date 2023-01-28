@@ -21,7 +21,7 @@ public abstract class Chatbot<TSettings> : Chatbot
     /// <param name="settings">The settings for the <see cref="Chatbot"/>.</param>
     /// <param name="mediator">The mediator for handling <see cref="Command"/> requests.</param>
     /// <param name="logger">The logger for the <see cref="Chatbot"/>.</param>
-    public Chatbot(
+    protected Chatbot(
         string name,
         TSettings settings,
         IMediator mediator,
