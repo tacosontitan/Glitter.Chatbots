@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Glitter.Tests", "test\Glitt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glitter.Commands.OpenSource", "src\Glitter.Commands.OpenSource\Glitter.Commands.OpenSource.csproj", "{6E620440-651E-4F5C-9958-AE6DE0AFB7FF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{2BA9A749-B95A-44F9-B1C9-1EA3E6243DFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,5 +47,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E57A512-C45B-46F0-8152-F6C4E7084E0C}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF0628C3-FD5D-45E7-BB41-0C28CE6ADE5A} = {2BA9A749-B95A-44F9-B1C9-1EA3E6243DFA}
 	EndGlobalSection
 EndGlobal
