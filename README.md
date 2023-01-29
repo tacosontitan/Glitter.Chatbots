@@ -24,10 +24,8 @@ Glitter employs workflows for continuous integration to ensure the repository is
 
 Glitter is available for consumption via NuGet:
 
-![Version](https://img.shields.io/nuget/v/Glitter?logo=nuget&label=Glitter&style=for-the-badge)
-
-![Version](https://img.shields.io/nuget/v/Glitter.Discord?logo=nuget&label=Glitter.Discord&style=for-the-badge)
-
+![Version](https://img.shields.io/nuget/v/Glitter?logo=nuget&label=Glitter&style=for-the-badge)  
+![Version](https://img.shields.io/nuget/v/Glitter.Discord?logo=nuget&label=Glitter.Discord&style=for-the-badge)  
 ![Version](https://img.shields.io/nuget/v/Glitter.Commands.OpenSource?logo=nuget&label=Glitter.Commands.OpenSource&style=for-the-badge)
 
 ### 💎 A few more gems
