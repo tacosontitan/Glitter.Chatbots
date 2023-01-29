@@ -3,7 +3,7 @@ Thank you for investing your time in contributing to our project! :sparkles:
 
 In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
 
-<sub>***Note**: Use the table of contents icon <img src="/.resources/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.*</sub>
+<sub>***Note**: Use the table of contents icon <img src="/resources/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.*</sub>
 
 ## 🆕 I'm a new contributor, how can I help?
 To get an overview of the project, take a peek at the [README](README.md). Here are some resources to help you get started with open source contributions:
@@ -25,4 +25,4 @@ Glitter has several areas that contributors can assist in:
 - Samples
 - Tests
 
-For more information on how we style our code, review our [style guide](/.resources/documentation/style-guide.md).
+For more information on how we style our code, review our [style guide](/resources/documentation/style-guide.md).
